@@ -1,0 +1,9 @@
+baseURL = "https://rogerjaeck.github.io/elbtour/"
+languageCode = "de-de"
+title = "ELBTOUR"
+theme = "hyde"
+
+[params]
+  themeColor = "theme-base-08"
+  layoutReverse = true
+  description = "Von Dresden nach Cuxhaven"
