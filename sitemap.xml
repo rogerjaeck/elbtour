@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://rogerjaeck.github.io/elbtour/post/von_dresden_nach_cuxhaven_long/</loc>
+    <lastmod>2017-04-18T22:42:00+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://rogerjaeck.github.io/elbtour/post/von_dresden_nach_cuxhaven/</loc>
     <lastmod>2017-04-18T22:16:00+02:00</lastmod>
   </url>
@@ -13,13 +18,13 @@
   
   <url>
     <loc>https://rogerjaeck.github.io/elbtour/</loc>
-    <lastmod>2017-04-18T22:16:00+02:00</lastmod>
+    <lastmod>2017-04-18T22:42:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://rogerjaeck.github.io/elbtour/post/</loc>
-    <lastmod>2017-04-18T22:16:00+02:00</lastmod>
+    <lastmod>2017-04-18T22:42:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
